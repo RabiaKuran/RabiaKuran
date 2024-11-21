@@ -54,7 +54,7 @@ I enjoy continuously improving myself and sharing what I learn with others.
 
 ## 📫 Contact Me!
 - 📧 **Email:** [rabiakuran34@gmail.com](mailto:rabiakuran34@gmail.com)  
-- 💼 **LinkedIn:** [Rabia Kuran](https://www.linkedin.com/in/rabiakuran)  
+- 💼 **LinkedIn:** [Rabia Kuran](https://www.linkedin.com/in/rabia-kuran-27a284195/)  
 - 🌟 **Instagram:** [@yazilimaskinayonel](https://www.instagram.com/yazilimaskinayonel?igshid=OGQ5ZDc2ODk2ZA%3D%3D)  
 
 ---
@@ -68,9 +68,10 @@ I enjoy continuously improving myself and sharing what I learn with others.
 
 ## 📌 Highlighted Projects
 
-1. [AI-Powered English Learning Platform](https://github.com/rabiakuran/english-learning-ai)   
-3. [React.js Game Platform](https://github.com/rabiakuran/react-game-platform)  
-
+1. [hospital-project-frontend](https://github.com/RabiaKuran/hospital-project-frontend)   
+2. [hospital-backend-with-java](https://github.com/RabiaKuran/hospital-backend-with-java)
+3. [react-native-project](https://github.com/RabiaKuran/react-native-project)
+4. [psychologydetector](https://github.com/RabiaKuran/psychologydetector)
 ---
 
 Thank you! 🙌 Feel free to reach out for new projects or collaborations! 😊
