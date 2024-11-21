@@ -22,7 +22,11 @@ I enjoy continuously improving myself and sharing what I learn with others.
 ### 🚀 Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
 
 ### 💻 Frameworks & Technologies
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -49,7 +53,7 @@ I enjoy continuously improving myself and sharing what I learn with others.
 ---
 
 ## 📫 Contact Me!
-- 📧 **Email:** [rabia.kuran@example.com](mailto:rabia.kuran@example.com)  
+- 📧 **Email:** [rabiakuran34@gmail.com](mailto:rabiakuran34@gmail.com)  
 - 💼 **LinkedIn:** [Rabia Kuran](https://www.linkedin.com/in/rabiakuran)  
 - 🌟 **Instagram:** [@yazilimaskinayonel](https://www.instagram.com/yazilimaskinayonel?igshid=OGQ5ZDc2ODk2ZA%3D%3D)  
 
@@ -64,8 +68,7 @@ I enjoy continuously improving myself and sharing what I learn with others.
 
 ## 📌 Highlighted Projects
 
-1. [AI-Powered English Learning Platform](https://github.com/rabiakuran/english-learning-ai)  
-2. [Smart Toothbrush Design](https://github.com/rabiakuran/smart-toothbrush)  
+1. [AI-Powered English Learning Platform](https://github.com/rabiakuran/english-learning-ai)   
 3. [React.js Game Platform](https://github.com/rabiakuran/react-game-platform)  
 
 ---
