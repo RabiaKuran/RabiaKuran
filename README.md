@@ -8,10 +8,9 @@ I enjoy continuously improving myself and sharing what I learn with others.
 
 ## 💡 About Me
 - 🎓 **Education:** I hold a degree in Computer Engineering.  
-- 🛠️ **Experience:** I have worked with LioXERP, React.js, C#, PostgreSQL, Oracle, and Crystal Reports.  
+- 🛠️ **Experience:** I have worked with  React.js, C#, Java, PostgreSQL, Oracle, and ERP .  
 - 🚀 **Projects:** 
-  - **AI-powered English Learning Platform:** Developing an AI-based language learning platform using Python.  
-  - **Technology Design:** Currently working on a smart toothbrush project.  
+  - **AI-powered English Learning Platform:** Developing an AI-based language learning platform using Python.   
 - 🎤 **Community Engagement:** Sharing my software education journey and providing guidance.  
 - ✍️ **Content Creation:** Producing engaging content about software development on social media.  
 
