@@ -9,8 +9,6 @@ I enjoy continuously improving myself and sharing what I learn with others.
 ## 💡 About Me
 - 🎓 **Education:** I hold a degree in Computer Engineering.  
 - 🛠️ **Experience:** I have worked with  React.js, C#, Java, PostgreSQL, Oracle, and ERP .  
-- 🚀 **Projects:** 
-  - **AI-powered English Learning Platform:** Developing an AI-based language learning platform using Python.   
 - 🎤 **Community Engagement:** Sharing my software education journey and providing guidance.  
 - ✍️ **Content Creation:** Producing engaging content about software development on social media.  
 
@@ -37,9 +35,15 @@ I enjoy continuously improving myself and sharing what I learn with others.
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 Tools & Reporting
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  
+- [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+- [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
 - ![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)  
 
 ---
 
@@ -62,6 +66,8 @@ I enjoy continuously improving myself and sharing what I learn with others.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiakuran&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiakuran&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabiakuran&theme=radical&hide_border=true)  
 
 ---
 
